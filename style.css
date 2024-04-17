@@ -1,0 +1,88 @@
+body{
+  background-color: rgb(151, 116, 185);
+}
+.sound-box {
+    display: inline-block;
+    width: 100px;
+    height: 100px;
+    background-color: rgb(236, 237, 238);
+    margin: 10px;
+    cursor: pointer;
+  }
+
+  .container{
+display: flex;
+align-items: center;
+margin-top: 18%;
+margin-left: 20%;
+
+  }
+
+
+  #key { 
+    display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 120px;
+  height: 40px;
+  color:rgb(0, 0, 0);
+  border: 2px solid black;
+  margin: 10px;
+  font-size: 18px;
+  font-weight: bold;
+  
+}
+
+  #thunder { 
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  color:rgb(0, 0, 0);
+  width: 120px;
+  height: 40px;
+  border: 2px solid black;
+  margin: 10px;
+  font-size: 18px;
+  font-weight: bold;
+
+  }
+
+  #Rain { 
+    display: flex;
+  align-items: center;
+  justify-content: center;
+  width: 120px;
+  color:rgb(0, 0, 0);
+  height: 40px;
+  border: 2px solid black;
+  margin: 10px;
+  font-size: 18px;
+  font-weight: bold;
+  
+  }
+
+  #Glass { 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color:rgb(0, 0, 0);
+    width: 120px;
+    height: 40px;
+    border: 2px solid black;
+    margin: 10px;
+    font-size: 18px;
+    font-weight: bold;
+  }
+
+  #notification { 
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    color:rgb(0, 0, 0);
+    width: 120px;
+    height: 40px;
+    border: 2px solid black;
+    margin: 10px;
+    font-size: 18px;
+    font-weight: bold;
+  }
